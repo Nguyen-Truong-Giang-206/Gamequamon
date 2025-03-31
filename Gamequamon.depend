@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1743385085 source:d:\demosdl\gamequamon\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Game.h"
+	"Menu.h"
+	<iostream>
+
+1743358493 d:\demosdl\gamequamon\game.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1743385488 d:\demosdl\gamequamon\dino.h
+	<SDL.h>
+	<vector>
+
+1743390026 d:\demosdl\gamequamon\obstacle.h
+	<SDL.h>
+	<vector>
+
+1743389424 d:\demosdl\gamequamon\item.h
+	<SDL.h>
+
+1743389424 source:d:\demosdl\gamequamon\game.cpp
+	"Game.h"
+	"Dino.h"
+	"Obstacle.h"
+	"Item.h"
+	"Menu.h"
+	"Utils.h"
+	<SDL_image.h>
+	<vector>
+	<string>
+
+1743243575 d:\demosdl\gamequamon\constant.h
+
+1743389424 source:d:\demosdl\gamequamon\item.cpp
+	"Item.h"
+	"Utils.h"
+	<SDL_image.h>
+	<iostream>
+
+1743383146 d:\demosdl\gamequamon\utils.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1743386427 source:d:\demosdl\gamequamon\obstacle.cpp
+	"Obstacle.h"
+	<cstdlib>
+	<ctime>
+	"Utils.h"
+	<SDL_image.h>
+	<iostream>
+
+1743383361 source:d:\demosdl\gamequamon\utils.cpp
+	"Utils.h"
+	<SDL_ttf.h>
+	<SDL.h>
+	<string>
+
+1743385938 source:d:\demosdl\gamequamon\dino.cpp
+	"Dino.h"
+	<SDL_image.h>
+	<iostream>
+
+1743283281 d:\demosdl\gamequamon\ground.h
+	<SDL.h>
+
+1743283472 source:d:\demosdl\gamequamon\ground.cpp
+	"Ground.h"
+	<SDL_image.h>
+	<iostream>
+
+1743342691 d:\demosdl\gamequamon\menu.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1743383944 source:d:\demosdl\gamequamon\menu.cpp
+	"Menu.h"
+	<string>
+	"Utils.h"
+
